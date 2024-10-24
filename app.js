@@ -1,5 +1,5 @@
 
-var div=document.getElementById('main');
+var div=document.getElementById('main1');
 var display=0;
 function hideShow(){
     if(display==1){
